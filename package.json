@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "allure-commandline": "^2.18.1",
+    "cucumber": "^6.0.7",
+    "cucumber-html-reporter": "^5.5.0",
+    "image-to-base64": "^2.2.0",
+    "png-js": "^1.0.0",
+    "testcafe": "^1.20.0-alpha.1",
+    "testcafe-reporter-allure": "^1.0.5",
+    "testcafe-reporter-html": "^1.4.6"
+  },
+  "name": "testcafedemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@applitools/eyes-testcafe": "^1.17.2",
+    "@cucumber/cucumber": "^8.5.0",
+    "@types/js-base64": "^3.3.1"
+  }
+}
